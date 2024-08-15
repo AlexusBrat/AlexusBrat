@@ -1,4 +1,4 @@
-## Seja Bem Vindo!.
+## Seja Bem Vindo!
 <p>Sou Alexandre Bratifisch, estudante de <b>Análise e Desenvolvimento de Sistemas</b>, atualmente no 6º Módulo na FATEC de Presidente Prudente/SP. Sempre tive interesse por tecnologia, desde que comecei a estudar venho me interessando cada vez mais e sempre estou buscando conhecer mais sobre as tecnologias, me aprimorando sempre para atuar como um excelente profissional.</p>
 
 <p>Contatos:</p>
