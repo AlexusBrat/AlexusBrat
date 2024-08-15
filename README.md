@@ -1,6 +1,9 @@
-## Olá, sou Alexandre Bratifisch.
+## Seja Bem Vindo!.
+<p>Sou Alexandre Bratifisch, estudante de <b>Análise e Desenvolvimento de Sistemas</b>, atualmente no 6º Módulo na FATEC de Presidente Prudente/SP. Sempre tive interesse por tecnologia, desde que comecei a estudar venho me interessando cada vez mais e sempre estou buscando conhecer mais sobre as tecnologias, me aprimorando sempre para atuar como um excelente profissional.</p>
 
-### Estudante de Análise e Desenvolvimento de Sistemas, atualmente no 6º Módulo na FATEC de Presidente Prudente/SP.
+<p>Contatos:</p>
+<a href="mailto:alexandrebratifisch@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+<a href="www.linkedin.com/in/alexandre-bratifisch/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
 
 # Tecnologias trabalhadas:
 <div>
@@ -31,14 +34,6 @@
 <!-- ícone MongoDB -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40px" width="40px" />  
           
-</div>
-<hr>
-<br>
-
-# Contato:
-
-<a href="mailto:alexandrebratifisch@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
-<a href="../www.linkedin.com/in/alexandre-bratifisch//" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>   
 </div>
           
           
