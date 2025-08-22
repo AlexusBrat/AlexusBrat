@@ -12,6 +12,9 @@
           
 <!-- ícone C# -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40px" width="40px"/>
+
+<!-- ícone Java -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" height="40px" width="40px" />          
           
 <!-- ícone PHP -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40px" width="40px" />
